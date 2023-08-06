@@ -1,0 +1,9 @@
+Enron Dataset: Over half a million anonymized emails from over 100 users. It’s one of the few publically available collections of “real” emails available for study and training sets.
+
+Google Blogger Corpus: Nearly 700,000 blog posts from blogger.com. The meat of the blogs contain commonly occurring English words, at least 200 of them in each entry.
+
+SMS Spam Collection: Excellent dataset focused on spam. Nearly 6000 messages tagged as legitimate or spam messages with a useful subset extracted directly from Grumbletext.
+
+Recommender Systems Datasets: Datasets from a variety of sources, including fitness tracking, video games, song data, and social media. Labels include star ratings, time stamps, social networks, and images.
+
+Project Gutenberg: Extensive collection of book texts. These are public domain and available in a variety of languages, spanning a long period of time.
